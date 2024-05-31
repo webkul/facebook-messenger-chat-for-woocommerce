@@ -1,0 +1,181 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Facebook Chat Messenger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-13 10:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-18T14:08:47+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: wc_fcm\n"
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:77
+msgid "A unique identifier for your Facebook Messenger application."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:131
+msgid "Choose specific pages to exclude Messenger functionality."
+msgstr ""
+
+#: includes/class-wkfcm.php:88
+msgid "Cloning is forbidden."
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress WooCommerce Facebook Chat Messenger to allow Facebook chat on your store."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:101
+msgid ""
+"Customize the message displayed to users when they are logged out of "
+"Facebook Messenger, providing relevant information or instructions."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:86
+msgid ""
+"Customize the visual appearance of your Messenger experience by choosing a "
+"theme color that reflects your style and brand."
+msgstr ""
+
+#: includes/class-wkfcm.php:97
+msgid "Deserializing instances of this class is forbidden."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:120
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/class-wkfcm-admin-function-handler.php:38
+msgid "Docs"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:118
+msgid "Enable"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:106
+msgid "Enable/Disable Facebook Messenger"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:94
+msgid ""
+"Engage and greet users with a personalized introduction or important "
+"information to make a great first impression on Messenger."
+msgstr ""
+
+#: includes/admin/class-wkfcm-admin-function-handler.php:56
+msgid "Facebook Chat Messenger"
+msgstr ""
+
+#: includes/admin/class-wkfcm-admin-function-handler.php:57
+msgid "Facebook"
+msgstr ""
+
+#: includes/admin/class-wkfcm-admin-function-handler.php:57
+msgid "Messenger Chat"
+msgstr ""
+
+#: includes/admin/class-wkfcm-admin-function-handler.php:72
+msgid "Settings"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://codecanyon.net/item/facebook-messenger-chat-for-woocommerce/23241741"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://webkul.com"
+msgstr ""
+
+#: includes/admin/class-wkfcm-admin-function-handler.php:57
+msgid "Messenger Chat"
+msgstr ""
+
+#: includes/admin/class-wkfcm-admin-function-handler.php:72
+msgid "Settings"
+msgstr ""
+
+#: includes/common/class-wkfcm-common-function-handler.php:39
+msgid "Welcome to Facebook! Connect, share, and enjoy! If you have any questions or need help, just ask. Enjoy your time here!"
+msgstr ""
+
+#: includes/common/class-wkfcm-common-function-handler.php:40
+msgid "Thank you for using Facebook! Logging out... Have a great day!"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:55
+msgid "WooCommerce Facebook Messenger Settings"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:63
+msgid "Facebook Messenger App Id"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:68
+msgid "Unique identifier for a Facebook Page used to enable messaging and interaction through the Messenger platform."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:74
+msgid "Facebook Messenger Page Id"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:77
+msgid "A unique identifier for your Facebook Messenger application."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:83
+msgid "Facebook Messenger Theme Color"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:86
+msgid "Customize the visual appearance of your Messenger experience by choosing a theme color that reflects your style and brand."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:92
+msgid "Facebook Messenger Welcome Message"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:94
+msgid "Engage and greet users with a personalized introduction or important information to make a great first impression on Messenger."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:99
+msgid "Facebook Messenger Logged Out Message"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:101
+msgid "Customize the message displayed to users when they are logged out of Facebook Messenger, providing relevant information or instructions."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:106
+msgid "Enable/Disable Facebook Messenger"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:109
+msgid "Control Messenger availability based on your preferences or requirements."
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:118
+msgid "Enable"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:120
+msgid "Disable"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:127
+msgid "Exclude Page to show Messenger"
+msgstr ""
+
+#: templates/admin/class-wkfcm-fb-messenger-settings.php:131
+msgid "Choose specific pages to exclude Messenger functionality."
+msgstr ""
